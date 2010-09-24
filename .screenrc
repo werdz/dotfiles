@@ -1,0 +1,9 @@
+startup_message off
+
+
+hardstatus on
+hardstatus alwayslastline
+
+hardstatus string "%{= kY} %w %=%{ = kW }[ %H ][ %d/%m/%y %c RST ] "
+termcapinfo linux|xterm|rxvt|xterm-color ti@:te@:XT
+
