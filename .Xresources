@@ -1,0 +1,3 @@
+xterm*background: black
+xterm*foreground: grey
+xterm*utf8: 1
